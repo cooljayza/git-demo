@@ -2,12 +2,8 @@
 
 This is the first file in the repo
 
-##Ipsum Below
+##Website Content
 
-jhafha a nfahfn cfl janfl jnfnaf alkro hu
+Here are the files in the website
 
-dad kdoakd 
-kimda'
-
-
-this line has been recently added
+1. index.html
