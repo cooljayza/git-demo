@@ -1,0 +1,27 @@
+    1  git version
+    2  exit
+    3  git help
+    4  git help config
+    5  pwd
+    6  git config --global user.name "Jacob Khoza"
+    7  git config --global user.email "jacobmbeestokhoza@gmail.com"
+    8  git config --global --list
+    9  pwd
+   10  mkdir projects
+   11  cd projects
+   12  pwd
+   13  git init git-demo
+   14  ls
+   15  cd git-demo
+   16  ls
+   17  ls -a
+   18  git help config
+   19  ls
+   20  pwd
+   21  cd ..
+   22  pwd
+   23  cd website
+   24  ls
+   25  git init
+   26  history > git-tutorial.txt
+   27  history | cat > git-tutorial.txt
